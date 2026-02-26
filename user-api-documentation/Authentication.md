@@ -27,9 +27,11 @@ Authorization: Bearer <access_token>
 
 > If the authenticated user does not have sufficient privileges, the system returns **403 Forbidden**.
 
---------|-------------|
+|--------|-------------|
 | admin  | Create, Update, Delete users |
 | emp    | Read (GET) user details only |
+
+### Header Example
 
 ### Header Example
 ```

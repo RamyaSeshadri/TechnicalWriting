@@ -3,4 +3,4 @@
 This section contains user-focused documentation for the User Management Application.
 
 📘 View full guide here:
-- [User Guide](User-Guide.md)
+- [User Guide](UserGuide.md)

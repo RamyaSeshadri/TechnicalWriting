@@ -5,7 +5,7 @@ This document defines validation standards enforced by the User Management API.
 
 ---
 
-# Input Validation Rules
+## 1. Input Validation Rules
 
 | Field    | Validation Rules                     |
 |----------|------------------------------------|

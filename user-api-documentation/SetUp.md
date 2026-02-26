@@ -1,4 +1,4 @@
-# Step-by-Step Setup & Testing
+## Step-by-Step Setup & Testing
 
 1. Clone the repository.
 2. Install required dependencies (e.g., Node.js, Express if backend implemented).

@@ -1,4 +1,7 @@
-I am an aspiring Technical Writer with experience documenting REST APIs, authentication flows, validation logic, and module-level workflows. This repository showcases my ability to translate backend logic into clear, structured documentation.
+
+I am an aspiring Technical Writer with 8+ years of experience in software engineering and data analysis, specializing in creating clear, structured technical documentation.
+
+This repository demonstrates my ability to leverage my programming background to document REST APIs, authentication workflows, validation logic, and module-level processes, translating backend systems into clear and user-focused documentation.
 
 # Technical Writing Portfolio
 

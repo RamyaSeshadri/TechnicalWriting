@@ -7,7 +7,7 @@ Base URL:
 
 ---
 
-## 1️⃣ Create User (Admin Only)
+## 1. Create User (Admin Only)
 
 ### Request
 
@@ -42,7 +42,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 2️⃣ Get User (Admin / Employee)
+## 2. Get User (Admin / Employee)
 
 ### Request
 
@@ -67,7 +67,7 @@ Authorization: Bearer <token>
 
 ---
 
-## 3️⃣ Update User Email or Phone (Admin Only)
+## 3️. Update User Email or Phone (Admin Only)
 
 ### Request
 

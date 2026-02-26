@@ -10,8 +10,7 @@ This repository contains structured documentation samples demonstrating API docu
 ## 📂 Projects
 
 ### 1️⃣ User Management REST API Documentation
-Location: /user-api
-
+Location: /user-api-documentation
 Covers:
 - RESTful endpoint documentation
 - Role-based authentication (Admin / Employee)

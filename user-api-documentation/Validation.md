@@ -1,5 +1,5 @@
 
-## Validation Rules
+# Validation Rules
 
 This document defines validation standards enforced by the User Management API.
 
